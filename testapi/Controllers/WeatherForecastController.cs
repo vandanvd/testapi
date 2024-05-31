@@ -8,7 +8,7 @@ namespace testapi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Đóng Beng", "Run rẩy", "Se se lạnh", "Lạnh", "Gió nhẹ", "Ấm", "Hơi Nóng", "Nóng", "Chảy mỡ", "Thiêu Đốt"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
